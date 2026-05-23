@@ -68,7 +68,7 @@ O **Conversor de Moedas** é uma aplicação web interativa que permite realizar
 <a href="https://github.com/sidnei-leao" target="_blank">
   <img width="48" height="48" alt="icons8-github" src="https://github.com/user-attachments/assets/bfe112a0-2e0d-4015-920b-709357de9ded" />
 </a>
-<a href="https://linkedin.com" target="_blank">
+<a href="https://www.linkedin.com/in/sidnei-raya-le%C3%A3o/" target="_blank">
   <img width="48" height="48" alt="icons8-linkedin" src="https://github.com/user-attachments/assets/19b84c4b-c507-475f-b5ea-60c8ebc0a635" target="_blank" />
 </a>
 
