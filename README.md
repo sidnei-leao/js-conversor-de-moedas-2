@@ -15,16 +15,14 @@
 </div>
 
 
-## <img width="50" height="50" alt="icons8-configurações" src="https://github.com/user-attachments/assets/5b476de0-82ae-450c-870d-b344b6c447ce" />
- # Funcionalidades
-
 ## 📱 Sobre o Projeto
 
-O **Conversor de Moedas** é uma aplicação web interativa que permite realizar a conversão de valores entre diferentes moedas internacionais (Real, Dólar, Euro, Libra e Franco Suíço) utilizando taxas de câmbio atualizadas. A interface foi projetada para focar na experiência do usuário (UX), garantindo fluidez e validação de dados em tempo real.
+O **Conversor de Moedas** é uma aplicação web interativa que permite realizar a conversão de valores entre diferentes moedas internacionais (Real, Dólar, Euro, Libra e Franco Suíço) utilizando taxas de câmbio atualizadas. A interface foi projetada para focar na **experiência do usuário (UX)**, garantindo fluidez e validação de dados em tempo real.
 
 ---
 
-## 🛠️ Funcionalidades Principais
+## <img width="48" height="48" alt="icons8-manutenção" src="https://github.com/user-attachments/assets/5a3ae2e6-a46e-4003-b9e4-361dc8cb97d6" />
+ # Funcionalidades Principais
 
 *   **Máscara de Moeda Dinâmica (BRL):** Formata automaticamente o valor digitado pelo usuário no padrão brasileiro (`R$ 0,00`) diretamente no campo de texto enquanto ele digita.
 *   **Conversão Multi-moedas:** Suporta conversões entre Real Brasileiro (BRL), Dólar Americano (USD), Euro (EUR), Libra Esterlina (GBP) e Franco Suíço (CHF).
@@ -35,9 +33,12 @@ O **Conversor de Moedas** é uma aplicação web interativa que permite realizar
 
 ---
 
-## 💻 Tecnologias Utilizadas
+## <img width="50" height="50" alt="icons8-pc" src="https://github.com/user-attachments/assets/fa2e5dfd-3d9e-4678-a5a9-46492ec5d1ab" />
+ # Tecnologias Utilizadas
 
 *   **HTML5:** Estruturação semântica do formulário, seletores (`select`) e seções de resultado.
+*   **CSS3:** Estilização visual moderna (cores, fontes e cantos arredondados), uso de Flexbox para o alinhamento centralizado do layout e criação de uma interface limpa com foco na experiência do usuário (UX).
+
 *   **JavaScript (ES6+):** Manipulação do DOM, escopo de funções, Expressões Regulares (Regex) para limpeza de strings e tratamento de eventos nativos (`input`, `change`, `click`, `submit`).
 
 <br><br>
