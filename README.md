@@ -52,19 +52,12 @@ O **Conversor de Moedas** é uma aplicação web interativa que permite realizar
  # Estrutura do projeto
 
 ```bash
- assets
-📄 index.html
-📄 styles.css
-📄 main.js
-```
-
-```bash
 ├── 📁 assets
 ├── 📄 index.html
-├── 📄 style.css
-└── 📄 scripts.js
+├── 📄 README.md
+├── 📄 scripts.js
+└── 📄 style.css
 ```
-
 
 ## 🔗 Acesse e veja o projeto on-line
 [![icons8-estimativa](https://github.com/user-attachments/assets/33fee36a-ddd4-4994-90f6-ed7950391a98)](https://sidnei-leao.github.io/js-conversor-de-moedas-2/)
