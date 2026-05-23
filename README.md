@@ -58,14 +58,7 @@ O **Conversor de Moedas** é uma aplicação web interativa que permite realizar
 ```
 
 ## 🔗 Acesse e veja o projeto on-line
-[![icons8-estimativa](https://github.com/user-attachments/assets/33fee36a-ddd4-4994-90f6-ed7950391a98)]()
-
-
-
-<img width="48" height="48" alt="icons8-estimativa" src="https://github.com/user-attachments/assets/33fee36a-ddd4-4994-90f6-ed7950391a98" />
-
-
-[![icons8-nike-96](https://github.com/user-attachments/assets/58968c96-8d27-4fb9-9597-3d6a7b41e674)](https://sidnei-leao.github.io/projeto-tenis-nike-DevClub/)
+[![icons8-estimativa](https://github.com/user-attachments/assets/33fee36a-ddd4-4994-90f6-ed7950391a98)](https://sidnei-leao.github.io/js-conversor-de-moedas-2/)
 
   
 ## 🔗 Meu Perfil
