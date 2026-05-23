@@ -34,7 +34,7 @@ O **Conversor de Moedas** é uma aplicação web interativa que permite realizar
 ---
 
 ## <img width="50" height="50" alt="icons8-pc" src="https://github.com/user-attachments/assets/fa2e5dfd-3d9e-4678-a5a9-46492ec5d1ab" />
- # Tecnologias Utilizadas
+## Detalhes Técnicos das Tecnologias
 
 *   **HTML5:** Estruturação semântica do formulário, seletores (`select`) e seções de resultado.
 *   **CSS3:** Estilização visual moderna (cores, fontes e cantos arredondados), uso de Flexbox para o alinhamento centralizado do layout e criação de uma interface limpa com foco na experiência do usuário (UX).
@@ -58,12 +58,15 @@ O **Conversor de Moedas** é uma aplicação web interativa que permite realizar
 ├── 📄 scripts.js
 └── 📄 style.css
 ```
+---
+<h3 align="center">🔗 Links Úteis</h3>
 
-## 🔗 Acesse e veja o projeto on-line
+### **Acesse e veja o projeto on-line:**
+
 [![icons8-estimativa](https://github.com/user-attachments/assets/33fee36a-ddd4-4994-90f6-ed7950391a98)](https://sidnei-leao.github.io/js-conversor-de-moedas-2/)
 
   
-## 🔗 Meu Perfil
+### **Meus Perfis:**
 
 <a href="https://github.com/sidnei-leao" target="_blank">
   <img width="48" height="48" alt="icons8-github" src="https://github.com/user-attachments/assets/bfe112a0-2e0d-4015-920b-709357de9ded" />
@@ -72,6 +75,8 @@ O **Conversor de Moedas** é uma aplicação web interativa que permite realizar
   <img width="48" height="48" alt="icons8-linkedin" src="https://github.com/user-attachments/assets/19b84c4b-c507-475f-b5ea-60c8ebc0a635" target="_blank" />
 </a>
 
+
 ## 📌 Autor
 
-Feito por Sidnei leão 🚀
+Feito por Sidnei leão <img width="30" height="30" alt="icons8-assinatura" src="https://github.com/user-attachments/assets/864e7f09-6215-4c41-9f6d-28e9a1f4ad30" />
+
